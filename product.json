@@ -1,0 +1,12 @@
+[
+    {
+        "name": "keripik",
+        "price": "1500",
+        "stock": 15
+    },
+    {
+        "name": "chitato",
+        "price": "2000",
+        "stock": 34
+    }
+]
